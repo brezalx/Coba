@@ -8,6 +8,10 @@ package class_object_1;
  *
  * @author BmeX
  */
-public class Coba {
-    
+public class Burung {
+    //tidak ada atribut
+    //method custom
+    public void terbang(){
+        System.out.println("Aku mencari makan dengan terbang");
+    }
 }
